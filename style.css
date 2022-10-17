@@ -1,0 +1,22 @@
+/* CSS Document */
+
+h1{color: red;}
+h2{color: orange;}
+h3{color: yellow;}
+h4{color: green;}
+h5{color: blue;}
+h6{color: purple;}
+p{color: pink;}
+font-weight:normal;
+ .box-1 {
+	backround-color: #3333;
+	 color: #fff;
+}
+.container { width:960;
+}
+body{ 
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16
+	line-height 1.6em;
+	px;
+}
